@@ -6,7 +6,7 @@
 - 🇧🇿 I do believe that Open source projects will make this world a better place
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
 - 📽 All my projects have a given extension. .JS extension represent javascript projects, .DJANGO for django projects, .SH for shell script projects, .html-css for html and css projects
-- 😋 All my javascript, html & css projects are hosted on github. Click on the project, check on the right pane and click on the link for a preview.
+- 😋 All my javascript, html & css projects are hosted live on github. Click on the project, check on the right pane and click on the link for a preview.
 - 👨‍🏭 All my working projects end with __
 
 ### How to set up my django projects :ballot_box_with_check:
