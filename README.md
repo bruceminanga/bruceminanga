@@ -1,7 +1,6 @@
 ### Hi there, I'm Bruce 👋
 
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking forward to become a DEVSECOPS, Telegram-Bot Developer and lastly Python Web Developer.
+- 🌱 I’m currently a DEVSECOPS, Telegram-Bot Developer and lastly Python Web Developer.
 - ⚡ Fun_facts: I'm a Linux and Telegram fanboy. To all of my forked projects, I have also contributed to them.
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
 - 🇧🇿 I do believe that Open source projects will make this world a better place
