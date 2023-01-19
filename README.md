@@ -3,7 +3,6 @@
 - 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
 - ⚡ Fun_facts: I'm a Linux and Telegram fanboy. To all of my forked projects, I have also contributed to them.
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
-- 🇧🇿 I do believe that Open source projects will make this world a better place
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
 - 📽 All my projects have a given extension. .JS extension represent javascript projects, .DJANGO for django projects, .SH for shell script projects, .html-css for html and css projects
 - 😋 All my javascript, html & css projects are hosted live on github. Click on the project, check on the right pane and click on the link for a preview.
