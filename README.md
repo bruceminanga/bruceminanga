@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruce 👋
 
 - 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
-- ⚡ Fun_facts: Tech Enthusiast. To all of my forked projects, I have also contributed to them.
+- ⚡ Fun_facts: To all of my forked projects, I have also contributed to them. I do write notes on github
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
 - 📽 All my projects have a given extension. .JS extension represent javascript projects, .DJANGO for django projects, .SH for shell script projects, .html-css for html and css projects
