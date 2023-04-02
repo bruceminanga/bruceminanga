@@ -4,8 +4,6 @@
 - ⚡ Fun_facts: To all of my forked projects, I have also contributed to them. I do write notes on github
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
-- 📽 All my projects have a given extension. .JS extension represent javascript projects, .DJANGO for django projects, .SH for shell script projects, .html-css for html and css projects
-- 😋 All my javascript, html & css projects are hosted live on github. Click on the project, check on the right pane and click on the link for a preview.
 - 👨‍🏭 All my working projects end with __. **Plus also i have tried my best to explain everything on my projects even newbies could learn something from them. Feel free to ask questions on the open discussions.**
 
 ### How to set up my django projects :ballot_box_with_check:
