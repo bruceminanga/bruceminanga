@@ -1,7 +1,6 @@
 ### Hi there, I'm Bruce 👋
 
 - 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
-- ⚡ Fun_facts: To all of my forked projects, I have also contributed to them. I do write notes on github
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
 - 👨‍🏭 All my working projects end with __. **Plus also i have tried my best to explain everything on my projects even newbies could learn something from them. Feel free to ask questions on the open discussions.**
