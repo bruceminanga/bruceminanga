@@ -3,7 +3,6 @@
 - 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
-- 👨‍🏭 All my working projects end with __. **Plus also i have tried my best to explain everything on my projects even newbies could learn something from them. Feel free to ask questions on the open discussions.**
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project 
