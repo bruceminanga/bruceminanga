@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruce 👋
 
-- 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
-- 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv 
+- 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, FullStack Web Developer.
+- 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv, Material-Shell 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
 
 ### How to set up my django projects :ballot_box_with_check:
