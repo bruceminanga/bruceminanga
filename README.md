@@ -3,6 +3,7 @@
 - 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, FullStack Web Developer.
 - 🛠 Favourite_tools = neovim, fedora-sway, podman, pipenv, Material-Shell 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
+- Fun Facts = I keep on updating my work.
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
