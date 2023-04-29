@@ -36,7 +36,7 @@
 
 
 <a href="https://linkedin.com/in/bruceminanga" target="_blank"><img align="center" style="display: inline-block;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruceminanga" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/bruceminanga" target="_blank"><img align="center" style="display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bruceminanga" height="20" width="20" /></a>
+<a href="linkedin.com/in/bruce-minanga-omondi-768a55240" target="_blank"><img align="center" style="display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bruceminanga" height="20" width="20" /></a>
 
   
    
