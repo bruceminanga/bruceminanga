@@ -6,7 +6,6 @@
   - Essential Commands 
   - Operation of running systems  
   - User And Group Management
-  - Networking 
   - Service Configuration  
   - Storage Management     
   - Containers (Docker/Podman)
