@@ -13,7 +13,7 @@
   - Javascript
   - Python
   - Bash scripting 
-- Frameworks
+- Frameworks(2020-now)
   - Django  
 
 ### How to set up my django projects :ballot_box_with_check:
