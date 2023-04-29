@@ -1,9 +1,22 @@
 ### Hi there, I'm Bruce 👋
+**Skills
+- Linux System Administrator(2020-now)
+  - Web Servers (Ngix/Apache)
+  - DNS servers (BIND)
+  - DHCP servers (ISC DHCP)
+  - File servers (NFS/SMB/ZFS)
+  - VPN servers (OpenVPN/WireGuard)
+  - Mail servers (Postfix/Dovecot)
+  - Containers (Docker/Podman)
+- Information security (2020-now) 
+  - Firewall management
+  - Cryptography 
+- Programming (2016-now) 
+  - Javascript
+  - Python
+  - Bash scripting 
 
-- 🌱 Whoami? DEVSECOPS, Telegram-Bot Developer, Python Web Developer.
-- 🛠 Favourite_tools = neovim, podman, pipenv 
 - 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
-- Fun Facts = I keep on updating my work. Don't be surprised to come and find a new better staff.
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
