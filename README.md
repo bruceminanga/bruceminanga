@@ -13,8 +13,10 @@
   - Javascript
   - Python
   - Bash scripting 
-- Frameworks(2020-now)
-  - Django  
+- Web Development(2020-now)
+  - Python Django
+  - Bootsrap
+  - Html, Css  
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
