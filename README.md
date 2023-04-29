@@ -3,19 +3,18 @@
 
 - Linux System Administrator(2020-now)
   - Web Servers (Ngix/Apache)
-  - DNS servers (BIND)
-  - DHCP servers (ISC DHCP)
+  - DNS servers 
   - File servers (NFS/SMB/ZFS)
-  - VPN servers (OpenVPN/WireGuard)
-  - Mail servers (Postfix/Dovecot)
+  - Linux Commands
   - Containers (Docker/Podman)
 - Information security (2020-now) 
   - Firewall management
-  - Cryptography 
 - Programming (2016-now) 
   - Javascript
   - Python
   - Bash scripting 
+- Frameworks
+  - Django  
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
