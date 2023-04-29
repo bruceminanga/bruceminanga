@@ -1,11 +1,48 @@
 ### Hi there, I'm Bruce 👋
 <h2 style="color: purple;">Skills</h2>
 
-- Linux System Administrator(2020-now)
+- Linux System Administrator(LFCSA)
   - Web Servers (Apache)
-  - DNS servers 
-  - File servers (NFS/SMB/ZFS)
-  - Linux Commands
+  - Essential Commands
+    - Search for files
+    - Log into local & remote graphical and text mode consoles
+    - Use input-output redirection (e.g. >, >>, |, 2>)
+    - Analyze text using basic regular expressions
+    - Archive, backup, compress, unpack, and uncompress files
+    - Create, delete, copy, and move files and directories
+    - Create and manage hard and soft links
+    - List, set, and change standard file permissions  
+  - Operation of running systems
+    - Install, configure and troubleshoot bootloaders
+    - Diagnose and manage processes 
+    - Schedule tasks to run at a set date and time
+    - Update software to provide required functionality and security
+    - Use scripting to automate system maintenance tasks
+    - Manage the startup process and services (In Services Configuration)
+    - List and identify SELinux/AppArmor file and process contexts   
+  - User And Group Management
+    - Create, delete, and modify local user accounts
+    - Create, delete, and modify local groups and group memberships
+    - Manage system-wide environment profiles
+    - Manage user privileges    
+  - Networking
+    - Configure networking and hostname resolution statically or dynamically
+    - Configure network services to start automatically at boot
+    - Implement packet filtering
+    - Start, stop, and check the status of network services
+    - Statically route IP traffic  
+  - Service Configuration
+    - Configure a caching DNS server
+    - Maintain a DNS zone
+    - Configure SSH servers and clients
+    - Configure an HTTP server     
+  - Storage Management
+    - List, create, delete, and modify physical storage partitions
+    - Manage and configure LVM storage
+    - Create and configure encrypted storage
+    - Configure and manage swap space
+    - Create and manage RAID devices
+    - Create and configure file systems       
   - Containers (Docker/Podman)
 - Information security (2020-now) 
   - Firewall management
