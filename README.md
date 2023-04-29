@@ -16,8 +16,6 @@
   - Python
   - Bash scripting 
 
-- 🔥 Also find me on hackerrank 👉 https://www.hackerrank.com/bruceminanga
-
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
 2. Go to Project Directory `cd project-name`
@@ -34,5 +32,14 @@
 3. Implement the JavaScript code to work as expected.
 
 
+<p align="center">
+
+<a href="https://linkedin.com/in/bruceminanga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruceminanga" height="20" width="20" /></a>
+  
+ <a href="https://www.hackerrank.com/bruceminanga" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bruceminanga" height="20" width="20" /></a> 
+  
+   
+
+</p>
 
 
