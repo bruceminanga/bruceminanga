@@ -1,5 +1,6 @@
 ### Hi there, I'm Bruce 👋
-**Skills
+<h2 style="color: purple;">Skills</h2>
+
 - Linux System Administrator(2020-now)
   - Web Servers (Ngix/Apache)
   - DNS servers (BIND)
@@ -32,14 +33,14 @@
 3. Implement the JavaScript code to work as expected.
 
 
-<p align="center">
 
-<a href="https://linkedin.com/in/bruceminanga" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruceminanga" height="20" width="20" /></a>
-  
- <a href="https://www.hackerrank.com/bruceminanga" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bruceminanga" height="20" width="20" /></a> 
+
+<a href="https://linkedin.com/in/bruceminanga" target="_blank"><img align="center" style="display: inline-block;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bruceminanga" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/bruceminanga" target="_blank"><img align="center" style="display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bruceminanga" height="20" width="20" /></a>
+
   
    
 
-</p>
+
 
 
