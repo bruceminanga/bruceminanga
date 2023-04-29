@@ -2,7 +2,7 @@
 <h2 style="color: purple;">Skills</h2>
 
 - Linux System Administrator(2020-now)
-  - Web Servers (Ngix/Apache)
+  - Web Servers (Apache)
   - DNS servers 
   - File servers (NFS/SMB/ZFS)
   - Linux Commands
