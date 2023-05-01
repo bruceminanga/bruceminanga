@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruce 👋
 <h2 style="color: purple;">Skills</h2>
 
-- Linux System Administrator(LFCSA)
+- Linux System Administrator(2020-now)
   - Web Servers (Apache)
   - Essential Commands 
   - Operation of running systems  
