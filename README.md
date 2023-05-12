@@ -9,6 +9,7 @@
   - Service Configuration  
   - Storage Management     
   - Containers (Docker/Podman)
+  - Bash Script
 - Information security (2020-now) 
   - Firewall management
 - Networking
@@ -17,12 +18,9 @@
     - Implement packet filtering
     - Start, stop, and check the status of network services
     - Statically route IP traffic   
-- Programming (2016-now) 
-  - Javascript
-  - Python
-  - Bash scripting 
 - Web Development(2020-now)
   - Python Django
+  - Javascript
   - Bootsrap
   - Html, Css  
 
