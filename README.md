@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruce 👋
 <h2 style="color: purple;">Skills</h2>
 
-- Linux System Administrator(2020-now)
+- Linux System Administrator(2020-2021)
   - Web Servers (Apache)
   - Essential Commands 
   - Operation of running systems  
@@ -10,17 +10,17 @@
   - Storage Management     
   - Containers (Docker/Podman)
   - Bash Script
-- Information security (2020-now) 
+- Information security (2020-2021) 
   - Firewall management
-- Networking
+- Networking (2020-2021)
     - Configure networking and hostname resolution statically or dynamically
     - Configure network services to start automatically at boot
     - Implement packet filtering
     - Start, stop, and check the status of network services
     - Statically route IP traffic   
-- Web Development(2020-now)
+- Web Development(2023-Present)
   - Python Django
-  - Javascript and React (since 2023-Present)
+  - Javascript and React 
   - Bootsrap
   - Html, Css  
   - Postgresql
