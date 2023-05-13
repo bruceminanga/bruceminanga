@@ -23,6 +23,7 @@
   - Javascript and React (since 2023-Present)
   - Bootsrap
   - Html, Css  
+  - Postgresql
 
 ### How to set up my django projects :ballot_box_with_check:
 1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
