@@ -20,7 +20,7 @@
     - Statically route IP traffic   
 - Web Development(2023-Present)
   - Python Django
-  - Javascript and React 
+  - Javascript
   - Bootsrap
   - Html, Css  
   - Postgresql
