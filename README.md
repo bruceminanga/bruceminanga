@@ -30,7 +30,7 @@
 2. Go to Project Directory `cd project-name`
 3. Create a Virtual Environment `pipenv shell`. This will also activate the Virtual Environment
 4. Check the Pipfile to confirm if it's running current python version. If not, edit it to the current python version
-5. Install dependencies `pipenv install` then create .env to put your generated secret_key (don't forget to source .env then restart termianl)
+5. Install dependencies `pipenv install` then create .env to put your generated secret_key (don't forget to source .env then restart termianl). To set the secrete key, open django shell( python manage.py shell), then run from django.core.management.utils import get_random_secret_key and lastly run print(get_random_secret_key()) to generate the key
 6. Migrate Database `python manage.py migrate`
 7. Create Super User `python manage.py createsuperuser`
 8. Finally, Run The Project `python manage.py runserver` 
