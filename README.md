@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruce 👋
 <h2 style="color: purple;">Skills</h2>
 
-- Linux System Administrator(2020-2021)
+- Linux System Administrator(2020-Now)
   - Web Servers (Apache)
   - Essential Commands 
   - Operation of running systems  
@@ -10,9 +10,9 @@
   - Storage Management     
   - Containers (Docker/Podman)
   - Bash Script
-- Information security (2020-2021) 
+- Information security (2020-Now) 
   - Firewall management
-- Networking (2020-2021)
+- Networking (2020-Now)
     - Configure networking and hostname resolution statically or dynamically
     - Configure network services to start automatically at boot
     - Implement packet filtering
