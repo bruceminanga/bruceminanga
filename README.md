@@ -26,7 +26,7 @@
   - Postgresql
 
 ### How to set up my django projects :ballot_box_with_check:
-1. Clone The Project (Or download zipped file, they are small in size with faster downloads)
+1. Clone The Project (git clone <repository_url>)
 2. Go to Project Directory `cd project-name`
 3. Create a Virtual Environment `pipenv shell`. This will also activate the Virtual Environment
 4. Check the Pipfile to confirm if it's running current python version. If not, edit it to the current python version
