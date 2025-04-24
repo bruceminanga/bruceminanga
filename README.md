@@ -26,7 +26,7 @@ I'm passionate about bridging the gap between operations and development, creati
 
 **💻 Web Development **
 *   **Backend:** Python, Django
-*   **Frontend:** JavaScript, React.js, HTML5, CSS3, Bootstrap
+*   **Frontend:** JavaScript, React.js, HTML5, CSS3, Bootstrap, Tailwind
 *   **Databases:** PostgreSQL
 
 ---
