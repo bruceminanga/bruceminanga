@@ -50,7 +50,7 @@ Here's a breakdown of Beginner-to-Intermediate Projects I've worked on during my
 
 
 **DevOps Projects**
-1. 1.  **[Django-docker-hit-counter](https://github.com/bruceminanga/Django-docker-hit-counter)**
+1. **[Django-docker-hit-counter](https://github.com/bruceminanga/Django-docker-hit-counter)**
 
 
 ---
