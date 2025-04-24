@@ -38,12 +38,16 @@ Here's a breakdown of projects I've worked on during my learning journey:
 **Full Stack Projects (Django & React)**
 
 1.  **[Eld-Trip-Planner](https://github.com/bruceminanga/Eld-trip-planner)**
+    *   *Development Time:* 2 weeks (Completed April 2nd, 2025)
+
 
 
 **React Frontend Projects**
 
 1.  **[Movie-Finder-App](https://github.com/bruceminanga/Movie-Finder-App)**
-   
+    *   *Development Time:* 1 day (Completed April 15, 2025)
+
+
 
 **DevOps Projects**
 
