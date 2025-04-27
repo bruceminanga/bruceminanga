@@ -33,7 +33,7 @@ I'm passionate about bridging the gap between operations and development, creati
 
 ### 🚀 Learning Projects Showcase
 
-Here's a breakdown of Beginner-to-Intermediate Projects I've worked on during my learning journey:
+Here's a breakdown of the Projects I've worked on during my learning journey:
 
 **Full Stack Projects (Django & React)**
 
