@@ -1,8 +1,8 @@
 ### Hi there, I'm Bruce 👋🏾
 
-I'm actively expanding my expertise into **Full Stack Development** and **DevOps**. My foundation lies in managing and securing Linux environments, and I'm now applying those concepts while building web applications with Python/Django, React, and exploring automation and containerization practices.
+I'm actively expanding my expertise into **DevOps Engineering**. My foundation lies in managing and securing Linux environments, and I'm now applying those concepts while building web applications with Python/Django, React, and exploring automation and containerization practices.
 
-I'm passionate about bridging the gap between operations and development, creating efficient workflows, and building practical applications. I'm seeking opportunities where I can contribute my skills and continue to grow as a developer and DevOps engineer.
+I'm passionate about bridging the gap between operations and development, creating efficient workflows, and building practical applications. I'm seeking opportunities where I can contribute my skills and continue to grow as a DevOps engineer.
 
 ---
 
