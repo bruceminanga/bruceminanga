@@ -50,7 +50,10 @@ Here's a breakdown of Beginner-to-Intermediate Projects I've worked on during my
 
 
 **DevOps Projects**
+
+_Docker, kubernetes, and CI/CD projects_
 1. **[Django-docker-hit-counter](https://github.com/bruceminanga/Django-docker-hit-counter)**
+2. **[Poll-project](https://github.com/bruceminanga/Poll-project)**
 
 
 ---
