@@ -1,8 +1,7 @@
 ### Hi there, I'm Bruce 👋🏾
 
-I'm actively expanding my expertise into **DevOps Engineering**. My foundation lies in managing and securing Linux environments, and I'm now applying those concepts while building web applications with Python/Django, React, and exploring automation and containerization practices.
+I'm actively expanding my expertise into **DevOps Engineering**. My foundation lies in managing and securing Linux environments, and I'm now applying those concepts while exploring automation and containerization practices.
 
-I'm passionate about bridging the gap between operations and development, creating efficient workflows, and building practical applications. I'm seeking opportunities where I can contribute my skills and continue to grow as a DevOps engineer.
 
 ---
 
@@ -35,21 +34,7 @@ I'm passionate about bridging the gap between operations and development, creati
 
 Here's a breakdown of the Projects I've worked on during my learning journey:
 
-**Full Stack Projects (Django & React)**
-
-1.  **[Eld-Trip-Planner](https://github.com/bruceminanga/Eld-trip-planner)**
-
-
-
-
-**React Frontend Projects**
-
-1.  **[Movie-Finder-App](https://github.com/bruceminanga/Movie-Finder-App)**
- 
-
-
-
-**DevOps Projects**
+ **DevOps Projects**
 
 _Docker, kubernetes, and CI/CD projects_
 1. **[Django-docker-hit-counter](https://github.com/bruceminanga/Django-docker-hit-counter)**
@@ -59,8 +44,6 @@ _Docker, kubernetes, and CI/CD projects_
 ---
 
 ### 📫 Let's Connect!
-
-I'm always open to discussing technology, projects, and potential opportunities. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-minanga-omondi-768a55240/) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bruceminanga)
