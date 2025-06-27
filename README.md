@@ -69,12 +69,10 @@ My current focus is on mastering the entire CI/CD lifecycle, from containerizati
 
 Here is a selection of favourite DevOps projects that demonstrate my hands-on skills. For more of my projects, you can check my github repository
 
-#### 1. [Django Docker Hit Counter](https://github.com/bruceminanga/Django-docker-hit-counter)
-A simple web application to demonstrate containerization fundamentals with a stateful component.
+**Docker & Kubernetes**
 
+[Django Docker Hit Counter](https://github.com/bruceminanga/Django-docker-hit-counter), [Poll-project](https://github.com/bruceminanga/Poll-project)
 
-#### 2. [CI/CD Pipeline for a Polling App](https://github.com/bruceminanga/Poll-project)
-Implemented a complete CI/CD pipeline for a Django polling application, automating the entire build, test, and deployment process.
 
 <!-- 
     **TEMPLATE FOR YOUR NEXT PROJECT**
