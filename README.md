@@ -67,7 +67,7 @@ My current focus is on mastering the entire CI/CD lifecycle, from containerizati
 
 ### 🚀 DevOps Project Showcase
 
-Here is a selection of projects that demonstrate my hands-on DevOps skills.
+Here is a selection of favourite DevOps projects that demonstrate my hands-on skills. For more of my projects, you can check my github repository
 
 #### 1. [Django Docker Hit Counter](https://github.com/bruceminanga/Django-docker-hit-counter)
 A simple web application to demonstrate containerization fundamentals with a stateful component.
