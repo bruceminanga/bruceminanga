@@ -30,11 +30,9 @@ I'm actively expanding my expertise into **DevOps Engineering**. My foundation l
 
 ---
 
-### 🚀 Learning Projects Showcase
+### 🚀 DevOps Projects Showcase
 
-Here's a breakdown of the Projects I've worked on during my learning journey:
-
- **DevOps Projects**
+Here's a breakdown of DevOps Projects I've worked on 
 
 _Docker, kubernetes, and CI/CD projects_
 1. **[Django-docker-hit-counter](https://github.com/bruceminanga/Django-docker-hit-counter)**
