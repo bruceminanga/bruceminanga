@@ -72,27 +72,9 @@ Here is a selection of projects that demonstrate my hands-on DevOps skills.
 #### 1. [Django Docker Hit Counter](https://github.com/bruceminanga/Django-docker-hit-counter)
 A simple web application to demonstrate containerization fundamentals with a stateful component.
 
-*   **DevOps Concepts Demonstrated:**
-    *   **Containerization:** Created a `Dockerfile` to containerize a Django web application.
-    *   **Multi-Container Management:** Used `docker-compose.yml` to define and run a multi-container application (Django + Redis).
-    *   **Networking:** Established communication between the web and database containers.
-    *   **Data Persistence:** Managed stateful data for the Redis cache using Docker volumes.
-*   **Tech Stack:**
-    ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 #### 2. [CI/CD Pipeline for a Polling App](https://github.com/bruceminanga/Poll-project)
 Implemented a complete CI/CD pipeline for a Django polling application, automating the entire build, test, and deployment process.
-
-*   **DevOps Concepts Demonstrated:**
-    *   **Continuous Integration (CI):** Used **GitHub Actions** to automatically build the Docker image and run tests on every push to the main branch.
-    *   **Continuous Deployment (CD):** Created a workflow to automatically push the validated Docker image to Docker Hub.
-    *   **Orchestration:** Wrote Kubernetes manifest files (`deployment.yml`, `service.yml`) to deploy the application on a **Minikube** cluster.
-*   **Tech Stack:**
-    ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- 
     **TEMPLATE FOR YOUR NEXT PROJECT**
@@ -125,9 +107,9 @@ I am a lifelong learner. Here is what I am currently focused on:
 
 I'm always open to connecting with other professionals and discussing technology. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-minanga-omondi-768a55240/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-minanga-omondi-768a55240/](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-minanga-omondi-768a55240/))
  
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bruceminanga)
+[![HackerRank]((https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/bruceminanga)
 
 ---
 
