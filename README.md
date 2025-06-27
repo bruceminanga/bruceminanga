@@ -107,7 +107,6 @@ I am a lifelong learner. Here is what I am currently focused on:
 
 I'm always open to connecting with other professionals and discussing technology. Feel free to reach out!
 
-I'm always open to connecting with other professionals and discussing technology. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruce-minanga-omondi-768a55240/)
  
