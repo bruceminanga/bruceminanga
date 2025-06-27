@@ -14,8 +14,18 @@ I'm actively expanding my expertise into **DevOps Engineering**. My foundation l
 *   **Scripting:** Bash scripting for automation
 
 **☁️ DevOps & Containerization**
-*   **Containers:** Docker, Podman - Building images, managing containers
-*   *(Actively learning CI/CD, Infrastructure as Code, advanced monitoring)*
+Actively building a portfolio of 10+ hands-on projects to master core DevOps competencies. My
+learning is project-based, and all configurations and code are available on my GitHub.
+• Proficient With:
+• Containerization: Creating and managing multi-service applications using Docker and
+Docker Compose.
+• CI/CD: Implementing automated build and test pipelines using GitHub Actions.
+• Orchestration: Deploying and managing applications on local Kubernetes (Minikube)
+clusters.
+• Currently Learning & Building Projects With:
+• Infrastructure as Code (IaC): Provisioning foundational AWS resources using
+Terraform.
+• Monitoring: Setting up basic
 
 **🔒 Networking & Security **
 *   **Configuration:** Static/Dynamic IP, Hostname Resolution (DNS)
