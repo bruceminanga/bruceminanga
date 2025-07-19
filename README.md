@@ -1,6 +1,6 @@
 # Hi there, I'm Bruce Minanga 👋🏾
 
-### Aspiring DevOps & Cloud Engineer | Linux Fedora User | Python Developer
+### Aspiring DevSecOps & Cloud Engineer | Linux Fedora User | Python Developer
 
 I am a proactive engineer transitioning from a strong foundation in **Software Engineering** and **Linux Systems Administration** to a career in **DevOps and Cloud Engineering**. My passion lies in building efficient, scalable, and automated systems. I believe in a "learn-by-doing" philosophy, which is why my GitHub is filled with hands-on lab projects where I apply and master core DevOps practices.
 
