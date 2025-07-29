@@ -1,4 +1,4 @@
-# Hi there, I'm Bruce Minanga 👋🏾
+# Hi there, I'm Bruce 👋🏾
 
 ### DevSecOps & Cloud Engineer | Building Secure, Scalable Infrastructure to Accelerate AI & Machine Learning Innovation
 
