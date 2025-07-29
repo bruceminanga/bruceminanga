@@ -65,33 +65,6 @@ My current focus is on mastering the entire CI/CD lifecycle, from containerizati
 
 ---
 
-### 🚀 DevOps Project Showcase
-
-Here is a selection of favourite DevOps projects that demonstrate my hands-on skills. For more of my projects, you can check my github repository
-
-**Docker & Kubernetes**
-
-[Django Docker Hit Counter](https://github.com/bruceminanga/Django-docker-hit-counter), [Poll-project](https://github.com/bruceminanga/Poll-project)
-
-
-<!-- 
-    **TEMPLATE FOR YOUR NEXT PROJECT**
-    Copy and paste this section for your next project.
-
-#### 3. [Project Name](https://github.com/bruceminanga/your-next-project)
-A one-sentence summary of what the project does and what it's for.
-
-*   **DevOps Concepts Demonstrated:**
-    *   **Infrastructure as Code (IaC):** Used **Terraform** to provision AWS resources (e.g., VPC, Subnets, EC2).
-    *   **Configuration Management:** Used a **Bash** script as `user-data` to install and configure the application on boot.
-*   **Tech Stack:**
-    ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Bash](https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
--->
-
----
-
 ### 📫 Let's Connect!
 
 I'm always open to connecting with other professionals and discussing technology. Feel free to reach out!
