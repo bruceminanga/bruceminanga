@@ -92,15 +92,6 @@ A one-sentence summary of what the project does and what it's for.
 
 ---
 
-### 🌱 My Learning Roadmap
-
-I am a lifelong learner. Here is what I am currently focused on:
-*   **Infrastructure as Code (IaC):** Deepening my knowledge of **Terraform** by building multi-environment AWS infrastructures.
-*   **Monitoring & Observability:** Learning to implement monitoring stacks using **Prometheus** and **Grafana** to gain insights into application performance.
-*   **Configuration Management:** Exploring **Ansible** for automated server configuration and application deployment.
-
----
-
 ### 📫 Let's Connect!
 
 I'm always open to connecting with other professionals and discussing technology. Feel free to reach out!
