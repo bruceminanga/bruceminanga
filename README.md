@@ -1,6 +1,6 @@
 # Hi there, I'm Bruce Minanga 👋🏾
 
-### DevSecOps & Cloud Engineer | Linux Fedora User | Python Developer
+### DevSecOps & Cloud Engineer | Building Secure, Scalable Infrastructure to Accelerate AI & Machine Learning Innovation
 
 I am a proactive engineer transitioning from a strong foundation in **Software Engineering** and **Linux Systems Administration** to a career in **DevSecOps and Cloud Engineering**. My passion lies in building efficient, scalable, and automated systems. I believe in a "learn-by-doing" philosophy, which is why my GitHub is filled with hands-on lab projects where I apply and master core DevOps practices.
 
